@@ -1,1 +1,1 @@
-Mô phỏng hệ thống phòng cháy chữa cháy dựa trên phát hiện lượng khói cho ngôi nhà thông minh trên phần mềm Cisco Packet Tracer.
+Mô phỏng hệ thống phòng cháy chữa cháy dựa trên phát hiện lượng khói cho ngôi nhà thông minh trên phần mềm Cisco Packet Tracer và một vài hệ thống thông minh khác của nhà thông minh như: điều hòa nhiệt độ thông minh, tưới cây tự động, hệ thống garage tự động và hệ thống camera an ninh cảm biến chuyển động.
